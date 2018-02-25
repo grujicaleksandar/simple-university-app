@@ -25,7 +25,7 @@ Screenshots
 
 2. Welcome Page
 
-![alt text](https://res.cloudinary.com/gruja90/image/upload/v1519568810/university-app/welcome.png)
+![alt text](https://res.cloudinary.com/gruja90/image/upload/c_crop,h_405/v1519569299/university-app/welcome.png)
 
 3.Home Page
 
